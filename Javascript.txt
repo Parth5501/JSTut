@@ -1,0 +1,4 @@
+Javascript is the scripting language
+Javascript is used in web development very much
+Javascript is brain of web application
+We can do DOM manipulation with the help of Javascript
